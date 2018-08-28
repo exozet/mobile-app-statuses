@@ -1,33 +1,30 @@
-### Tirol Android [![Build Status](https://app.bitrise.io/app/f395d2162181fd75/status.svg?token=tkaDNSgJqj9V_6wqP8OM6w)](https://app.bitrise.io/app/f395d2162181fd75)
-### aohostels [![Build Status](https://app.bitrise.io/app/2618b9148902b0a1/status.svg?token=ilIh0CYIcUMyrBS4BGc2LQ)](https://app.bitrise.io/app/2618b9148902b0a1)
-### mobile.de ios seller app [![Build Status](https://app.bitrise.io/app/ea59d411eb838908/status.svg?token=YvU-nPzNz8wyHsOhWZSh-g)](bitrise.io/app/ea59d411eb838908/status.svg)
-### android self-care [![Build Status](https://app.bitrise.io/app/34f1d2a88f14f19a/status.svg?token=prWGJBfJd1gWVQ8N6xP5kQ)](https://app.bitrise.io/app/34f1d2a88f14f19a)
-### balsam-video-transcoding  [![Build Status](https://app.bitrise.io/app/b01d84f33f558708/status.svg?token=CGqiO52j7QN7NmesAPEntg)](https://app.bitrise.io/app/b01d84f33f558708)
-### Telekom Sport Fire TV [![Build Status](https://app.bitrise.io/app/e69b0466e8f7ca31/status.svg?token=WCojN2mlI35lzeh7gGsP4Q)](https://app.bitrise.io/app/e69b0466e8f7ca31)
-### balsam android: [![Build Status](https://app.bitrise.io/app/079624ef57aeda63/status.svg?token=ixvCLvNqYq-vfgzypeLUSg)](app.bitrise.io/app/079624ef57aeda63/status)
-### BfR-FirstAid-Android [![Build Status](https://app.bitrise.io/app/ab46c6b76906df92/status.svg?token=qxCW5Uw3QFwE5seXVYlo_Q)](https://app.bitrise.io/app/ab46c6b76906df92)
-### NewsApp [![Build Status](https://app.bitrise.io/app/b185c0fc2939c835/status.svg?token=7V654p5fGPa3qyG9Acr71g)](https://app.bitrise.io/app/b185c0fc2939c835)
-### Xamarin.Awesome.Calendar [![Build Status](https://app.bitrise.io/app/f16178539ab449e6/status.svg?token=jKIYZPzRgFwEAFb2099GpQ)](https://app.bitrise.io/app/f16178539ab449e6)
-### FreedomPlayer [![Build Status](https://app.bitrise.io/app/d4a490f7a03927ac/status.svg?token=g5eKZwY9wiJi8Mvv-RBivQ)](app.bitrise.io/app/d4a490f7a03927ac/status)
-### android-360-player [![Build Status](https://app.bitrise.io/app/0357b1ed81cca2cc/status.svg?token=HSR0XR2bM3WtxjKhGTYsKw)](https://app.bitrise.io/app/0357b1ed81cca2cc)
-### SequentialImagePlayer [![Build Status](https://app.bitrise.io/app/fa83e2f5c9f27219/status.svg?token=Ve_kGOA-Za3VtgleXs4ThQ)](app.bitrise.io/app/fa83e2f5c9f27219/status)
-### Xamarin.Android.RecyclerView.Presenter [![Build Status](https://app.bitrise.io/app/ba0cf03aee45e6e0/status.svg?token=bWmS491VrL3ZzXi17yaNdA)](https://app.bitrise.io/app/ba0cf03aee45e6e0)
-### Xamarin.RxPermissions [![Build Status](https://app.bitrise.io/app/9ce2f028d01c6c1f/status.svg?token=X-RCNlnJoO5-LhFd7vcq1Q)](bitrise.io/app/9ce2f028d01c6c1f/status.svg)
-### balsam-ios [![Build Status](https://app.bitrise.io/app/d0a87c6ac29e4c15/status.svg?token=jmYVcxxScDW9X4UaVYOnAA)](https://app.bitrise.io/app/d0a87c6ac29e4c15)
-### Computop-Android-Example [![Build Status](https://app.bitrise.io/app/111e5df5f88caa51/status.svg?token=ho08bVjbq3U4qP1f2MaFEg)](https://app.bitrise.io/app/111e5df5f88caa51)
-### Computop Android SDK [![Build Status](https://app.bitrise.io/app/576122a811fe06fd/status.svg?token=CdSpY7lQ3jQCR-qWV2iiZA)](app.bitrise.io/app/576122a811fe06fd/status)
-### Helix Text Adventure iOS [![Build Status](https://app.bitrise.io/app/2131c363badddaf7/status.svg?token=k7xfytdAn3C8SQAKqIdq_g)](https://app.bitrise.io/app/2131c363badddaf7)
-### Helix Text Adventure Android [![Build Status](https://app.bitrise.io/app/461b2a3b5dd0c452/status.svg?token=1rOeHdpV4FiLOcHsftfc8A)](https://app.bitrise.io/app/461b2a3b5dd0c452)
-### Xamarin.HafeleSDK [![Build Status](https://app.bitrise.io/app/108edfed10cd627e/status.svg?token=oRnuWv5gSQpH5GK3fweM4w)](https://app.bitrise.io/app/108edfed10cd627e)
-### rxjava-android-binding [![Build Status](https://app.bitrise.io/app/dceccc6a92c239e9/status.svg?token=q4L_lVYb8tK9XbaGy16fHg)](https://app.bitrise.io/app/dceccc6a92c239e9)
-### Gothaer Schaden App Android [![Build Status](https://app.bitrise.io/app/b56c0d2ba5c50e71/status.svg?token=IQZFDV-8v8B-0ZnBz_RaVQ)](bitrise.io/app/b56c0d2ba5c50e71/status.svg)
-### xamarin-logger [![Build Status](https://app.bitrise.io/app/00ff7b23ad902f70/status.svg?token=ll9SJ0Fm-4FRYl6ZyQAScA)](app.bitrise.io/app/00ff7b23ad902f70/status)
-### Schaden-App-iOS [![Build Status](https://app.bitrise.io/app/102f0466e34add3f/status.svg?token=P5YTI3iSQARanC08FMIrMg)](https://app.bitrise.io/app/102f0466e34add3f)
-### Berlin Wall Android [![Build Status](https://app.bitrise.io/app/25e13c89b0808457/status.svg?token=0bVcrheTJ8wODNWjE7cgqg)](https://app.bitrise.io/app/25e13c89b0808457)
-### BfR-FirstAid-iOS [![Build Status](https://app.bitrise.io/app/27664ebb1cd2ff59/status.svg?token=HvQ3KQf9x2V-sFw7iGhlaw)](app.bitrise.io/app/27664ebb1cd2ff59/status)
-### Computop iOS SDK [![Build Status](https://app.bitrise.io/app/5ae8decfdaa34977/status.svg?token=QeQL1mg_Ho6IYeMTNXsAaw)](https://app.bitrise.io/app/5ae8decfdaa34977)
-### AstroTV Android [![Build Status](https://app.bitrise.io/app/04ce2f48b306fe27/status.svg?token=Ps6cA9mEhuqn_rRakHHXOw)](https://app.bitrise.io/app/04ce2f48b306fe27)
-### AstroTV iOS [![Build Status](https://app.bitrise.io/app/9280e175ba2e62ce/status.svg?token=gqqZV3iFH_GjJa3_qnbxSA)](https://app.bitrise.io/app/9280e175ba2e62ce)
-### Bluewin Swisscom [![Build Status](https://app.bitrise.io/app/31c1d912fefd9e6b/status.svg?token=yXpb1t9BXjqjmXW_OdE9RA)](https://app.bitrise.io/app/31c1d912fefd9e6b)
-### Crew Android [![Build Status](https://app.bitrise.io/app/2c1fa6113979146d/status.svg?token=54YQYf_c0veXZTMg0CsZuw)](https://app.bitrise.io/app/2c1fa6113979146d)
-### club-tv-lautern [![Build Status](https://app.bitrise.io/app/5f642b92f0ee1eab/status.svg?token=ATF441wVsmko86MQaLg3HQ)](https://app.bitrise.io/app/5f642b92f0ee1eab)
+| App Name  | Android   | iOS        | Other      |
+| --------- | :-------: | :--------: | :--------: |
+| Tirol | [![Build Status](https://app.bitrise.io/app/f395d2162181fd75/status.svg?token=tkaDNSgJqj9V_6wqP8OM6w)](https://app.bitrise.io/app/f395d2162181fd75) |  |  |
+| AOHostels  |  |  | [![Build Status](https://app.bitrise.io/app/2618b9148902b0a1/status.svg?token=ilIh0CYIcUMyrBS4BGc2LQ)](https://app.bitrise.io/app/2618b9148902b0a1) |
+| Mobile.de Seller-App |  | [![Build Status](https://app.bitrise.io/app/ea59d411eb838908/status.svg?token=YvU-nPzNz8wyHsOhWZSh-g)](bitrise.io/app/ea59d411eb838908/status.svg) |  |
+| Self-Care | [![Build Status](https://app.bitrise.io/app/34f1d2a88f14f19a/status.svg?token=prWGJBfJd1gWVQ8N6xP5kQ)](https://app.bitrise.io/app/34f1d2a88f14f19a) |  |  |
+| Balsam-Video-Transcoding |  |  | [![Build Status](https://app.bitrise.io/app/b01d84f33f558708/status.svg?token=CGqiO52j7QN7NmesAPEntg)](https://app.bitrise.io/app/b01d84f33f558708) |
+| Telekom Sport Fire TV | [![Build Status](https://app.bitrise.io/app/e69b0466e8f7ca31/status.svg?token=WCojN2mlI35lzeh7gGsP4Q)](https://app.bitrise.io/app/e69b0466e8f7ca31) |  |  |
+| Balsam | [![Build Status](https://app.bitrise.io/app/079624ef57aeda63/status.svg?token=ixvCLvNqYq-vfgzypeLUSg)](app.bitrise.io/app/079624ef57aeda63/status) | [![Build Status](https://app.bitrise.io/app/d0a87c6ac29e4c15/status.svg?token=jmYVcxxScDW9X4UaVYOnAA)](https://app.bitrise.io/app/d0a87c6ac29e4c15) |  |
+| BfR-FirstAid | [![Build Status](https://app.bitrise.io/app/ab46c6b76906df92/status.svg?token=qxCW5Uw3QFwE5seXVYlo_Q)](https://app.bitrise.io/app/ab46c6b76906df92) | [![Build Status](https://app.bitrise.io/app/27664ebb1cd2ff59/status.svg?token=HvQ3KQf9x2V-sFw7iGhlaw)](app.bitrise.io/app/27664ebb1cd2ff59/status) |  |
+| NewsApp |  |  | [![Build Status](https://app.bitrise.io/app/b185c0fc2939c835/status.svg?token=7V654p5fGPa3qyG9Acr71g)](https://app.bitrise.io/app/b185c0fc2939c835) |
+| Xamarin.Awesome.Calendar | [![Build Status](https://app.bitrise.io/app/f16178539ab449e6/status.svg?token=jKIYZPzRgFwEAFb2099GpQ)](https://app.bitrise.io/app/f16178539ab449e6) |  |  |
+| FreedomPlayer | [![Build Status](https://app.bitrise.io/app/d4a490f7a03927ac/status.svg?token=g5eKZwY9wiJi8Mvv-RBivQ)](app.bitrise.io/app/d4a490f7a03927ac/status) |  |  |
+| 360-Player| [![Build Status](https://app.bitrise.io/app/0357b1ed81cca2cc/status.svg?token=HSR0XR2bM3WtxjKhGTYsKw)](https://app.bitrise.io/app/0357b1ed81cca2cc) |  |  |
+| SequentialImagePlayer | [![Build Status](https://app.bitrise.io/app/fa83e2f5c9f27219/status.svg?token=Ve_kGOA-Za3VtgleXs4ThQ)](app.bitrise.io/app/fa83e2f5c9f27219/status) |  |  |
+| Xamarin.Android.RecyclerView.Presenter | [![Build Status](https://app.bitrise.io/app/ba0cf03aee45e6e0/status.svg?token=bWmS491VrL3ZzXi17yaNdA)](https://app.bitrise.io/app/ba0cf03aee45e6e0) |  |  |
+| Xamarin.RxPermissions | [![Build Status](https://app.bitrise.io/app/9ce2f028d01c6c1f/status.svg?token=X-RCNlnJoO5-LhFd7vcq1Q)](bitrise.io/app/9ce2f028d01c6c1f/status.svg) |  |  |
+| Computop-Example | [![Build Status](https://app.bitrise.io/app/111e5df5f88caa51/status.svg?token=ho08bVjbq3U4qP1f2MaFEg)](https://app.bitrise.io/app/111e5df5f88caa51) |  |  |
+| Computop SDK | [![Build Status](https://app.bitrise.io/app/576122a811fe06fd/status.svg?token=CdSpY7lQ3jQCR-qWV2iiZA)](app.bitrise.io/app/576122a811fe06fd/status) | [![Build Status](https://app.bitrise.io/app/5ae8decfdaa34977/status.svg?token=QeQL1mg_Ho6IYeMTNXsAaw)](https://app.bitrise.io/app/5ae8decfdaa34977) |  |
+| Helix Text Adventure | [![Build Status](https://app.bitrise.io/app/461b2a3b5dd0c452/status.svg?token=1rOeHdpV4FiLOcHsftfc8A)](https://app.bitrise.io/app/461b2a3b5dd0c452) | [![Build Status](https://app.bitrise.io/app/2131c363badddaf7/status.svg?token=k7xfytdAn3C8SQAKqIdq_g)](https://app.bitrise.io/app/2131c363badddaf7) |  |
+| Xamarin.HafeleSDK | [![Build Status](https://app.bitrise.io/app/108edfed10cd627e/status.svg?token=oRnuWv5gSQpH5GK3fweM4w)](https://app.bitrise.io/app/108edfed10cd627e) |  |  |
+| RxJava-Binding | [![Build Status](https://app.bitrise.io/app/dceccc6a92c239e9/status.svg?token=q4L_lVYb8tK9XbaGy16fHg)](https://app.bitrise.io/app/dceccc6a92c239e9) |  |  |
+| Gothaer Schaden App | [![Build Status](https://app.bitrise.io/app/b56c0d2ba5c50e71/status.svg?token=IQZFDV-8v8B-0ZnBz_RaVQ)](bitrise.io/app/b56c0d2ba5c50e71/status.svg) | [![Build Status](https://app.bitrise.io/app/102f0466e34add3f/status.svg?token=P5YTI3iSQARanC08FMIrMg)](https://app.bitrise.io/app/102f0466e34add3f) |  |
+| Xamarin-Logger |  |  | [![Build Status](https://app.bitrise.io/app/00ff7b23ad902f70/status.svg?token=ll9SJ0Fm-4FRYl6ZyQAScA)](app.bitrise.io/app/00ff7b23ad902f70/status) |
+| Berlin Wall | [![Build Status](https://app.bitrise.io/app/25e13c89b0808457/status.svg?token=0bVcrheTJ8wODNWjE7cgqg)](https://app.bitrise.io/app/25e13c89b0808457) |  |  |
+| AstroTV | [![Build Status](https://app.bitrise.io/app/04ce2f48b306fe27/status.svg?token=Ps6cA9mEhuqn_rRakHHXOw)](https://app.bitrise.io/app/04ce2f48b306fe27) | [![Build Status](https://app.bitrise.io/app/9280e175ba2e62ce/status.svg?token=gqqZV3iFH_GjJa3_qnbxSA)](https://app.bitrise.io/app/9280e175ba2e62ce) |  |
+| Bluewin Swisscom | [![Build Status](https://app.bitrise.io/app/31c1d912fefd9e6b/status.svg?token=yXpb1t9BXjqjmXW_OdE9RA)](https://app.bitrise.io/app/31c1d912fefd9e6b) |  |  |
+| Crew | [![Build Status](https://app.bitrise.io/app/2c1fa6113979146d/status.svg?token=54YQYf_c0veXZTMg0CsZuw)](https://app.bitrise.io/app/2c1fa6113979146d) |  |  |
+| Club-TV-Lautern | [![Build Status](https://app.bitrise.io/app/5f642b92f0ee1eab/status.svg?token=ATF441wVsmko86MQaLg3HQ)](https://app.bitrise.io/app/5f642b92f0ee1eab) |  |  |
+|  |  |  |  |
