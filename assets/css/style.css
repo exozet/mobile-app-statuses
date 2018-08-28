@@ -1,14 +1,14 @@
 @import "{{ site.theme }}";
 
 header {
-  display: none;
+  display: none; !important
 }
 footer {
-  display: none;
+  display: none; !important
 }
 page-header {
-  display: none;
+  display: none; !important
 }
 site-footer {
-  display: none;
+  display: none; !important
 }
