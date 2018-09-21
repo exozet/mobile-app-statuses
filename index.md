@@ -1,7 +1,6 @@
 | App Name  | Android   | iOS        | Other      |
 | --------- | :-------: | :--------: | :--------: |
-| Tirol | [![Build Status](https://app.bitrise.io/app/e1099372511a9a9d/status.svg?token=TucfQB9b6iAGlA8faY4F0w&branch=master)](https://app.bitrise.io/app/e1099372511a9a9d) |  |  |
-| AndroidCore  |  |  | [![Build Status](https://app.bitrise.io/app/2618b9148902b0a1/status.svg?token=ilIh0CYIcUMyrBS4BGc2LQ)](https://app.bitrise.io/app/2618b9148902b0a1) |
+| AndroidCore  | [![Build Status](https://app.bitrise.io/app/2618b9148902b0a1/status.svg?token=ilIh0CYIcUMyrBS4BGc2LQ)](https://app.bitrise.io/app/2618b9148902b0a1) |  | |
 | AOHostels  |  |  | [![Build Status](https://app.bitrise.io/app/2618b9148902b0a1/status.svg?token=ilIh0CYIcUMyrBS4BGc2LQ)](https://app.bitrise.io/app/2618b9148902b0a1) |
 | Xamarin.HafeleSDK | [![Build Status](https://app.bitrise.io/app/108edfed10cd627e/status.svg?token=oRnuWv5gSQpH5GK3fweM4w)](https://app.bitrise.io/app/108edfed10cd627e) |  |  |
 | RxJava-Binding | [![Build Status](https://app.bitrise.io/app/dceccc6a92c239e9/status.svg?token=q4L_lVYb8tK9XbaGy16fHg)](https://app.bitrise.io/app/dceccc6a92c239e9) |  |  |
@@ -25,6 +24,7 @@
 | Computop SDK | [![Build Status](https://app.bitrise.io/app/576122a811fe06fd/status.svg?token=CdSpY7lQ3jQCR-qWV2iiZA)](app.bitrise.io/app/576122a811fe06fd/status) | [![Build Status](https://app.bitrise.io/app/5ae8decfdaa34977/status.svg?token=QeQL1mg_Ho6IYeMTNXsAaw)](https://app.bitrise.io/app/5ae8decfdaa34977) |  |
 | Helix Text Adventure | [![Build Status](https://app.bitrise.io/app/461b2a3b5dd0c452/status.svg?token=1rOeHdpV4FiLOcHsftfc8A)](https://app.bitrise.io/app/461b2a3b5dd0c452) | [![Build Status](https://app.bitrise.io/app/2131c363badddaf7/status.svg?token=k7xfytdAn3C8SQAKqIdq_g)](https://app.bitrise.io/app/2131c363badddaf7) |  |
 | Gothaer Schaden App | [![Build Status](https://app.bitrise.io/app/b56c0d2ba5c50e71/status.svg?token=IQZFDV-8v8B-0ZnBz_RaVQ)](bitrise.io/app/b56c0d2ba5c50e71/status.svg) | [![Build Status](https://app.bitrise.io/app/102f0466e34add3f/status.svg?token=P5YTI3iSQARanC08FMIrMg)](https://app.bitrise.io/app/102f0466e34add3f) |  |
+| Tirol | [![Build Status](https://app.bitrise.io/app/e1099372511a9a9d/status.svg?token=TucfQB9b6iAGlA8faY4F0w&branch=master)](https://app.bitrise.io/app/e1099372511a9a9d) |  |  |
 | Berlin Wall | [![Build Status](https://app.bitrise.io/app/25e13c89b0808457/status.svg?token=0bVcrheTJ8wODNWjE7cgqg)](https://app.bitrise.io/app/25e13c89b0808457) |  |  |
 | AstroTV | [![Build Status](https://app.bitrise.io/app/04ce2f48b306fe27/status.svg?token=Ps6cA9mEhuqn_rRakHHXOw)](https://app.bitrise.io/app/04ce2f48b306fe27) | [![Build Status](https://app.bitrise.io/app/9280e175ba2e62ce/status.svg?token=gqqZV3iFH_GjJa3_qnbxSA)](https://app.bitrise.io/app/9280e175ba2e62ce) |  |
 | Bluewin Swisscom | [![Build Status](https://app.bitrise.io/app/31c1d912fefd9e6b/status.svg?token=yXpb1t9BXjqjmXW_OdE9RA)](https://app.bitrise.io/app/31c1d912fefd9e6b) |  |  |
