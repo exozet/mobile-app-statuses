@@ -1,6 +1,7 @@
 | App Name  | Android   | iOS        | Other      |
 | --------- | :-------: | :--------: | :--------: |
-| Tirol | [![Build Status](https://app.bitrise.io/app/f395d2162181fd75/status.svg?token=tkaDNSgJqj9V_6wqP8OM6w)](https://app.bitrise.io/app/f395d2162181fd75) |  |  |
+| Tirol | [![Build Status](https://app.bitrise.io/app/e1099372511a9a9d/status.svg?token=TucfQB9b6iAGlA8faY4F0w&branch=master)](https://app.bitrise.io/app/e1099372511a9a9d) |  |  |
+| AndroidCore  |  |  | [![Build Status](https://app.bitrise.io/app/2618b9148902b0a1/status.svg?token=ilIh0CYIcUMyrBS4BGc2LQ)](https://app.bitrise.io/app/2618b9148902b0a1) |
 | AOHostels  |  |  | [![Build Status](https://app.bitrise.io/app/2618b9148902b0a1/status.svg?token=ilIh0CYIcUMyrBS4BGc2LQ)](https://app.bitrise.io/app/2618b9148902b0a1) |
 | Xamarin.HafeleSDK | [![Build Status](https://app.bitrise.io/app/108edfed10cd627e/status.svg?token=oRnuWv5gSQpH5GK3fweM4w)](https://app.bitrise.io/app/108edfed10cd627e) |  |  |
 | RxJava-Binding | [![Build Status](https://app.bitrise.io/app/dceccc6a92c239e9/status.svg?token=q4L_lVYb8tK9XbaGy16fHg)](https://app.bitrise.io/app/dceccc6a92c239e9) |  |  |
