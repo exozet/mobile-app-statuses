@@ -1,6 +1,7 @@
 | App Name  | Android   | iOS        | Other      |
 | --------- | :-------: | :--------: | :--------: |
 | AndroidCore  | [![Build Status](https://app.bitrise.io/app/e1099372511a9a9d/status.svg?token=TucfQB9b6iAGlA8faY4F0w)](https://app.bitrise.io/app/e1099372511a9a9d) |  | |
+| IKZ  | [![Build Status](https://app.bitrise.io/app/8d6d50d1085aa88b/status.svg?token=lLN9GVoVubi1eGHvODyK2A)](https://app.bitrise.io/app/8d6d50d1085aa88b) | [![Build Status](https://app.bitrise.io/app/51493c927c50f046/status.svg?token=Tu50ztqpHEFE6he3ocZEsg)](https://app.bitrise.io/app/51493c927c50f046) |  |
 | AOHostels  |  |  | [![Build Status](https://app.bitrise.io/app/2618b9148902b0a1/status.svg?token=ilIh0CYIcUMyrBS4BGc2LQ)](https://app.bitrise.io/app/2618b9148902b0a1) |
 | Xamarin.HafeleSDK | [![Build Status](https://app.bitrise.io/app/108edfed10cd627e/status.svg?token=oRnuWv5gSQpH5GK3fweM4w)](https://app.bitrise.io/app/108edfed10cd627e) |  |  |
 | RxJava-Binding | [![Build Status](https://app.bitrise.io/app/dceccc6a92c239e9/status.svg?token=q4L_lVYb8tK9XbaGy16fHg)](https://app.bitrise.io/app/dceccc6a92c239e9) |  |  |
