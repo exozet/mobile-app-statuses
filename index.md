@@ -6,6 +6,7 @@
 | Xamarin.HafeleSDK | [![Build Status](https://app.bitrise.io/app/108edfed10cd627e/status.svg?token=oRnuWv5gSQpH5GK3fweM4w)](https://app.bitrise.io/app/108edfed10cd627e) |  |  |
 | RxJava-Binding | [![Build Status](https://app.bitrise.io/app/dceccc6a92c239e9/status.svg?token=q4L_lVYb8tK9XbaGy16fHg)](https://app.bitrise.io/app/dceccc6a92c239e9) |  |  |
 | IO.Payworks.Mpos  | [![Build Status](https://app.bitrise.io/app/bb8d6897a4501dc6/status.svg?token=UJjILGSHcup6VI5r7ie2oQ)](https://app.bitrise.io/app/bb8d6897a4501dc6) |  |  |
+| Xamarin.Android.CreditCardView | [![Build Status](https://app.bitrise.io/app/89ff40c0afcad133/status.svg?token=_WvUzujqT5US5bDn7yYC0w&branch=master)](https://app.bitrise.io/app/89ff40c0afcad133) |  |  |
 | Xamarin.Android.Sofort.Pay  | [![Build Status](https://app.bitrise.io/app/2b3d3630d38e01f4/status.svg?token=f3Q0HiLzQvJXs9TV-H2IGA)](https://app.bitrise.io/app/2b3d3630d38e01f4) |  |  |
 | Xamarin.Android.RecyclerView.Presenter | [![Build Status](https://app.bitrise.io/app/ba0cf03aee45e6e0/status.svg?token=bWmS491VrL3ZzXi17yaNdA)](https://app.bitrise.io/app/ba0cf03aee45e6e0) |  |  |
 | Xamarin.RxPermissions | [![Build Status](https://app.bitrise.io/app/9ce2f028d01c6c1f/status.svg?token=X-RCNlnJoO5-LhFd7vcq1Q)](bitrise.io/app/9ce2f028d01c6c1f/status.svg) |  |  |
