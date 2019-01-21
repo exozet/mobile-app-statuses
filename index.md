@@ -1,9 +1,10 @@
 | App Name  | Android   | iOS        | Other      |
 | --------- | :-------: | :--------: | :--------: |
 | AndroidCore  | [![Build Status](https://app.bitrise.io/app/e1099372511a9a9d/status.svg?token=TucfQB9b6iAGlA8faY4F0w)](https://app.bitrise.io/app/e1099372511a9a9d) |  | |
+| Self-Care | https://app.bitrise.io/app/ac9840bdbc961ba3/status.svg?token=MbNC4r33MbmvdNsFjITiYA | https://app.bitrise.io/app/5edeebf63dcd771a/status.svg?token=u0_mopomMu0Zz52q8DSWKA | https://app.bitrise.io/app/34f1d2a88f14f19a/status.svg?token=prWGJBfJd1gWVQ8N6xP5kQ |
 | IKZ  | [![Build Status](https://app.bitrise.io/app/8d6d50d1085aa88b/status.svg?token=lLN9GVoVubi1eGHvODyK2A)](https://app.bitrise.io/app/8d6d50d1085aa88b) | [![Build Status](https://app.bitrise.io/app/51493c927c50f046/status.svg?token=Tu50ztqpHEFE6he3ocZEsg)](https://app.bitrise.io/app/51493c927c50f046) |  |
 | AOHostels  |  |  | [![Build Status](https://app.bitrise.io/app/2618b9148902b0a1/status.svg?token=ilIh0CYIcUMyrBS4BGc2LQ)](https://app.bitrise.io/app/2618b9148902b0a1) |
-| Xamarin.HafeleSDK | [![Build Status](https://app.bitrise.io/app/108edfed10cd627e/status.svg?token=oRnuWv5gSQpH5GK3fweM4w)](https://app.bitrise.io/app/108edfed10cd627e) |  |  |
+| Xamarin.HafeleSDK |  |  | https://app.bitrise.io/app/37c691ef2d8d92e7/status.svg?token=cSuBvgDZwZg576BymraucA |
 | RxJava-Binding | [![Build Status](https://app.bitrise.io/app/dceccc6a92c239e9/status.svg?token=q4L_lVYb8tK9XbaGy16fHg)](https://app.bitrise.io/app/dceccc6a92c239e9) |  |  |
 | IO.Payworks.Mpos  | [![Build Status](https://app.bitrise.io/app/bb8d6897a4501dc6/status.svg?token=UJjILGSHcup6VI5r7ie2oQ)](https://app.bitrise.io/app/bb8d6897a4501dc6) |  |  |
 | Xamarin.Android.CreditCardView | [![Build Status](https://app.bitrise.io/app/89ff40c0afcad133/status.svg?token=_WvUzujqT5US5bDn7yYC0w&branch=master)](https://app.bitrise.io/app/89ff40c0afcad133) |  |  |
@@ -16,7 +17,6 @@
 | FreedomPlayer | [![Build Status](https://app.bitrise.io/app/d4a490f7a03927ac/status.svg?token=g5eKZwY9wiJi8Mvv-RBivQ)](app.bitrise.io/app/d4a490f7a03927ac/status) |  |  |
 | 360-Player| [![Build Status](https://app.bitrise.io/app/0357b1ed81cca2cc/status.svg?token=HSR0XR2bM3WtxjKhGTYsKw)](https://app.bitrise.io/app/0357b1ed81cca2cc) |  |  |
 | SequentialImagePlayer | [![Build Status](https://app.bitrise.io/app/fa83e2f5c9f27219/status.svg?token=Ve_kGOA-Za3VtgleXs4ThQ)](app.bitrise.io/app/fa83e2f5c9f27219/status) |  |  |
-| Self-Care | [![Build Status](https://app.bitrise.io/app/34f1d2a88f14f19a/status.svg?token=prWGJBfJd1gWVQ8N6xP5kQ)](https://app.bitrise.io/app/34f1d2a88f14f19a) |  |  |
 | Balsam-Video-Transcoding |  |  | [![Build Status](https://app.bitrise.io/app/b01d84f33f558708/status.svg?token=CGqiO52j7QN7NmesAPEntg)](https://app.bitrise.io/app/b01d84f33f558708) |
 | Telekom Sport Fire TV | [![Build Status](https://app.bitrise.io/app/e69b0466e8f7ca31/status.svg?token=WCojN2mlI35lzeh7gGsP4Q)](https://app.bitrise.io/app/e69b0466e8f7ca31) |  |  |
 | Balsam | [![Build Status](https://app.bitrise.io/app/079624ef57aeda63/status.svg?token=ixvCLvNqYq-vfgzypeLUSg)](app.bitrise.io/app/079624ef57aeda63/status) | [![Build Status](https://app.bitrise.io/app/d0a87c6ac29e4c15/status.svg?token=jmYVcxxScDW9X4UaVYOnAA)](https://app.bitrise.io/app/d0a87c6ac29e4c15) |  |
